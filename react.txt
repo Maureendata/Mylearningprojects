@@ -1,0 +1,4 @@
+npm create vite@4.1.0
+Components must always have a jsx extension
+Prettier enables you to format on save and also auto format your code.
+Normalize using divs.
