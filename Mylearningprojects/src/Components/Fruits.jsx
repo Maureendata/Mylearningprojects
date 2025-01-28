@@ -1,4 +1,4 @@
-import Fruit from "./Fruit";
+import Fruit from "./Components/Fruit";
 export default function Fruits() {
   const fruits = [
     { Name: "Apple", Color: "red", Price: 2 ,Soldout:false},
