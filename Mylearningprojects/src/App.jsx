@@ -1,5 +1,6 @@
 import Hello from "./Components/Hello";
 import Fruits from "./Components/Fruits";
+<<<<<<< HEAD
 import Conditionalrendering from "./Components/conditionalrendering";
 
 // const person={
@@ -13,6 +14,13 @@ function App() {
     <div className="App">
     <Conditionalrendering/>
       
+=======
+import Message from "./Components/Message";
+function App() {
+  return (
+    <div className="App">
+      <Message/>
+>>>>>>> 07140931c97b8ebf92e3b9d0d4bb27fa506c240e
     </div>
   );
 }
