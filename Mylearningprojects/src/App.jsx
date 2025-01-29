@@ -5,11 +5,11 @@ import Conditionalrendering from "./Components/conditionalrendering";
 
 import Message from "./Components/Message";
 import Counter from "./Components/Counter";
-
+import Form from "./Components/Form";
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <Form />
     </div>
   );
 }
